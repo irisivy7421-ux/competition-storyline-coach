@@ -1,0 +1,4 @@
+interface:
+  display_name: "比赛故事线教练"
+  short_description: "结合命题和评分规则，用有限访谈形成方案构思稿与演讲故事线"
+  default_prompt: "使用 $competition-storyline-coach，读取我的比赛命题和评分规则，用易读进度卡完成约5–7个主问题，并交付方案摘要、故事线和飞书文档。"
