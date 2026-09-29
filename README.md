@@ -25,7 +25,7 @@ python3 "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-installer/scripts/inst
 
 ## 下载压缩包
 
-也可以从 [GitHub Releases](https://github.com/irisivy7421-ux/competition-storyline-coach/releases/tag/v1.0.0) 下载 `competition-storyline-coach-v1.0.0.zip`，解压后将顶层技能文件夹放入：
+也可以直接下载版本化安装包 [`competition-storyline-coach-v1.0.0.zip`](https://github.com/irisivy7421-ux/competition-storyline-coach/raw/v1.0.0/release/competition-storyline-coach-v1.0.0.zip)。版本说明见 [GitHub Releases](https://github.com/irisivy7421-ux/competition-storyline-coach/releases/tag/v1.0.0)。解压后将顶层技能文件夹放入：
 
 ```text
 ~/.codex/skills/
